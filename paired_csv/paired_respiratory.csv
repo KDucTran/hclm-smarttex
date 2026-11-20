@@ -1,0 +1,9 @@
+record,false_alerts_removed,false_alerts_added,positive_minutes_recovered,positive_minutes_newly_missed
+a01,3,0,0,0
+a02,4,1,1,0
+a03,0,7,1,0
+a04,0,0,0,0
+b01,0,0,0,0
+c01,0,0,0,0
+c02,17,1,0,0
+c03,6,1,0,0
